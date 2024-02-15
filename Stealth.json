@@ -1,6 +1,6 @@
 {
-	"name": "Stealthh",
-	"description": "A sleek, dark theme with hints of green.",
+	"name": "Stealtho",
+	"description": "A sleek, dark theme with hint of green.",
 	"authors": [
 	    {
 	      "name": "9021007",
@@ -18,12 +18,12 @@
 		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MOBILE_SECONDARY": ["#000000", "#FFFFFF"],
-		"BACKGROUND_MODIFIER_ACCENT": ["#151515", "#FFFFFF"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
 		"CHANNELS_DEFAULT": ["#ffffff", "#FFFFFF"],
 		"HEADER_PRIMARY": ["#ffffff", "#FFFFFF"],
-		"HEADER_SECONDARY": ["#00cc00", "#FFFFFF"], 
+		"HEADER_SECONDARY": ["#000000", "#FFFFFF"], 
 		"INTERACTIVE_ACTIVE": ["#ffffff", "#FFFFFF"],
 		"INTERACTIVE_MUTED": ["#aaaaaa", "#FFFFFF"],
 		"INTERACTIVE_NORMAL": ["#aaaaaa", "#FFFFFF"],
@@ -32,15 +32,15 @@
 		"TEXT_NORMAL": ["#ffffff", "#FFFFFF"]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#000000",
-		"PRIMARY_DARK_100": "#000000",
-		"PRIMARY_DARK_300": "#000000",
-		"PRIMARY_DARK_360": "#000000",
+		"PRIMARY_DARK": "#ffffff",
+		"PRIMARY_DARK_100": "#ffffff",
+		"PRIMARY_DARK_300": "#ffffff",
+		"PRIMARY_DARK_360": "#cccccc",
 		"PRIMARY_DARK_400": "#000000",
 		"PRIMARY_DARK_500": "#000000",
-		"PRIMARY_DARK_600": "#000000",
-		"PRIMARY_DARK_630": "#000000",
-		"PRIMARY_DARK_700": "#000000",
+		"PRIMARY_DARK_600": "#111111",
+		"PRIMARY_DARK_630": "#353535",
+		"PRIMARY_DARK_700": "#353535",
 		"PRIMARY_DARK_800": "#000000",
 		"BRAND_NEW": "#000000",
 		"WHITE": "#FFFFFF"
