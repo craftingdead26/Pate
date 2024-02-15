@@ -1,11 +1,11 @@
 {
-  "name": "Sultan",
+  "name": "Greg",
   "version": "2.0",
-  "description": "Vibrant Crimson Meets OLED Black",
-  "color": "#BB000E",
+  "description": "Neon Green Meets OLED Black",
+  "color": "#00ff1a",
   "authors": [
     {
-      "name": "Lei#5550",
+      "name": "craftingdead261",
       "id": "693607329039646741"
     }
   ],
@@ -15,7 +15,7 @@
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
-      "#BB000E",
+      "#00ff1a",
       "#FFFFFF"
     ],
     "HEADER_SECONDARY": [
@@ -31,15 +31,15 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#BB000E",
+      "#00ff1a",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#BB000E",
+      "#00ff1a",
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#BB000E",
+      "#00ff1a",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -123,22 +123,22 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#BB000E",
+      "#00ff1a",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#BB000E",
-      "#BB000E"
+      "#00ff1a",
+      "#00ff1a"
     ],
     "CHANNEL_ICON": [
-      "#BB000E",
-      "#BB000E"
+      "#00ff1a",
+      "#00ff1a"
     ]
   },
   "colours": {
     "PRIMARY_DARK": "#FFFFFF",
-    "PRIMARY_DARK_100": "#BB000E",
-    "PRIMARY_DARK_200": "#BB000E",
+    "PRIMARY_DARK_100": "#00ff1a",
+    "PRIMARY_DARK_200": "#00ff1a",
     "PRIMARY_DARK_300": "#000000",
     "PRIMARY_DARK_360": "#FFFFFF",
     "PRIMARY_DARK_400": "#000000",
